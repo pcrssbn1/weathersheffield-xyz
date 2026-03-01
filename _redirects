@@ -1,0 +1,2 @@
+https://weathersheffield-xyz.pages.dev/ https://weathersheffield.xyz/ 301
+https://weathersheffield-xyz.pages.dev/* https://weathersheffield.xyz/:splat 301
