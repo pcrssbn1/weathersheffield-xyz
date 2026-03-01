@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weathersheffield.xyz/sitemap.xml
